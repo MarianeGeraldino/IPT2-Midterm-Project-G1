@@ -1,4 +1,5 @@
 <?php
+  include('database/database.php');
   include('partials\header.php');
   include('partials\sidebar.php');
 
